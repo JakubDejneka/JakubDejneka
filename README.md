@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JakubDejneka
+- 👀 I’m interested in test automation area
+- 🌱 I’m currently working with Java and Selenium WebDriver / Selenide
+- 💞️ I’m looking to collaborate on REST API testing
+- 📫 How to reach me j.dejneka@wp.pl   or   https://www.linkedin.com/in/jakub-dejneka-887060128/
